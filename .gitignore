@@ -1,0 +1,37 @@
+# Competition data. Never commit this.
+# Leading slash anchors to repo root so src/data/ is not caught.
+/data/*
+!/data/.gitkeep
+*.dcm
+*.npy
+*.npz
+
+# Model weights and outputs
+weights/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+submission*.csv
+oof*.csv
+
+# Secrets. Kaggle tokens, API keys.
+kaggle.json
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+/.gitignore
