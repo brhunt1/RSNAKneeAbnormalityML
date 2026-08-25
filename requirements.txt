@@ -1,0 +1,37 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+pyyaml
+tqdm
+
+# Cross validation with multilabel stratification
+iterative-stratification
+
+# DICOM. The pylibjpeg and gdcm packages are required for the compressed
+# transfer syntaxes in this dataset. Without them, decoding silently fails
+# on a subset of the data.
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+python-gdcm
+
+# Imaging
+opencv-python-headless
+Pillow
+
+# Modeling
+torch
+torchvision
+timm
+
+# Report mining (multilingual text)
+transformers
+sentencepiece
+
+# Notebooks
+jupyter
+matplotlib
+seaborn
