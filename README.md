@@ -10,15 +10,6 @@ abnormalities on knee MRI examinations.
 **Final submission deadline:** October 22, 2026.
 **Entry / team merger deadline:** October 15, 2026.
 
-## Start here
-
-| Doc | What it covers |
-|---|---|
-| [docs/01-competition-brief.md](docs/01-competition-brief.md) | The competition in detail: data, metric, what actually matters |
-| [docs/02-kaggle-fundamentals.md](docs/02-kaggle-fundamentals.md) | How to be an effective competitor if you are new |
-| [docs/03-roadmap.md](docs/03-roadmap.md) | Week by week plan from now to the deadline |
-| [docs/04-workflow.md](docs/04-workflow.md) | How work lands in this repo (branches, PRs, review) |
-
 ## Layout
 
 ```
@@ -49,5 +40,4 @@ Then place or symlink the Kaggle data at `data/raw/`.
 
 ## Status
 
-Scaffold stage. No trained model yet. See [docs/03-roadmap.md](docs/03-roadmap.md) for
-what comes next.
+Scaffold stage. No trained model yet. 
